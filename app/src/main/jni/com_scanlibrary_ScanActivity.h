@@ -62,7 +62,7 @@ extern "C" {
  * Method:    getScannedBitmap
  * Signature: (IILandroid/graphics/Bitmap;FFFFFFFF)Landroid/graphics/Bitmap;
  */
-JNIEXPORT jobject JNICALL Java_com_scanlibrary_ScanActivity_getScannedBitmap
+JNIEXPORT jobject JNICALL Java_de_derkuba_scanner_MainActivity_getScannedBitmap
   (JNIEnv *, jobject, jobject, jfloat, jfloat, jfloat, jfloat, jfloat, jfloat, jfloat, jfloat);
 
 
