@@ -1,0 +1,1 @@
+/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5/obj/local/x86

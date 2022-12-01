@@ -1,0 +1,1 @@
+/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk

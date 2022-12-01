@@ -1,0 +1,148 @@
+{
+  "abi": "X86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/.cxx/Release/446tp6w5/x86",
+  "soFolder": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5/obj/local/x86",
+  "soRepublishFolder": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/ndkBuild/release/obj/local/x86",
+  "abiPlatformVersion": 16,
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/.cxx",
+      "intermediatesBaseFolder": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates",
+      "intermediatesFolder": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx",
+      "gradleModulePathName": ":openCVLibrary3415",
+      "moduleRootFolder": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415",
+      "moduleBuildFile": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build.gradle",
+      "makeFile": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "/home/jacob/Android/Sdk/ndk/23.1.7779620",
+      "ndkVersion": "23.1.7779620",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 31,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/home/jacob/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/home/jacob/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/home/jacob/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/home/jacob/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/home/jacob/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/home/jacob/AndroidStudioProjects/Scanner",
+        "sdkFolder": "/home/jacob/Android/Sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": []
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "system",
+    "optimizationTag": "Release"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/.cxx/Release/446tp6w5/prefab/x86",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "446tp6w5x3c31rz1r44z3t6l2349392i404p4s6m4j3r12y713h2l3a3i3g",
+  "configurationArguments": [
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "APP_ABI\u003dx86",
+    "NDK_ALL_ABIS\u003dx86",
+    "NDK_DEBUG\u003d0",
+    "APP_PLATFORM\u003dandroid-16",
+    "NDK_OUT\u003d/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5/obj",
+    "NDK_LIBS_OUT\u003d/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5/lib",
+    "APP_CPPFLAGS+\u003d"
+  ],
+  "intermediatesParentFolder": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5"
+}

@@ -1,0 +1,11 @@
+Android NDK: OpenCV: You should ignore warning about 'non-system libraries in linker flags' and 'opencv_java' library.    
+Android NDK:         'OPENCV_INSTALL_MODULES:=on' can be used to build APK with included OpenCV binaries    
+rm -f /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Debug/101he6x5/lib/x86/*
+rm -f /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Debug/101he6x5/lib/x86/gdbserver
+rm -f /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Debug/101he6x5/lib/x86/gdb.setup
+mkdir -p /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Debug/101he6x5/lib/x86
+echo [x86] "Gdbserver      ": "[i686-linux-android] /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Debug/101he6x5/lib/x86/gdbserver"
+install -p /home/jacob/Android/Sdk/ndk/23.1.7779620/prebuilt/android-x86/gdbserver/gdbserver /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Debug/101he6x5/lib/x86/gdbserver
+echo [x86] "Gdbsetup       ": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Debug/101he6x5/lib/x86/gdb.setup"
+echo "set solib-search-path /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Debug/101he6x5/obj/local/x86" > /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Debug/101he6x5/lib/x86/gdb.setup
+echo "directory /home/jacob/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot" >> /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Debug/101he6x5/lib/x86/gdb.setup

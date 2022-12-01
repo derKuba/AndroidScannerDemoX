@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 16 min SDK version: x86",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1071905364
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/.cxx/Release/446tp6w5/x86/android_gradle_build.json due to:",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1031256391
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/.cxx/Release/446tp6w5/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 534997077
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/.cxx/Release/446tp6w5/x86/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1789795085
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1565186982
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/.cxx/Release/446tp6w5/x86\u0027",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -553333254
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild /home/jacob/Android/Sdk/ndk/23.1.7779620/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk \\\n  APP_ABI\u003dx86 \\\n  NDK_ALL_ABIS\u003dx86 \\\n  NDK_DEBUG\u003d0 \\\n  APP_PLATFORM\u003dandroid-16 \\\n  NDK_OUT\u003d/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5/obj \\\n  NDK_LIBS_OUT\u003d/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5/lib \\\n  APP_CPPFLAGS+\u003d \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2041693634
+  },
+  {
+    "level_": 0,
+    "message_": "/home/jacob/Android/Sdk/ndk/23.1.7779620/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk \\\n  APP_ABI\u003dx86 \\\n  NDK_ALL_ABIS\u003dx86 \\\n  NDK_DEBUG\u003d0 \\\n  APP_PLATFORM\u003dandroid-16 \\\n  NDK_OUT\u003d/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5/obj \\\n  NDK_LIBS_OUT\u003d/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5/lib \\\n  APP_CPPFLAGS+\u003d \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1676460497
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 7703669
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1872550235
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/.cxx/Release/446tp6w5/x86/metadata_generation_command.txt",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 521206587
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/native/jni/OpenCV.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1104053481
+  }
+]

@@ -1,0 +1,5 @@
+Android NDK: OpenCV: You should ignore warning about 'non-system libraries in linker flags' and 'opencv_java' library.    
+Android NDK:         'OPENCV_INSTALL_MODULES:=on' can be used to build APK with included OpenCV binaries    
+rm -f /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5/lib/x86/*
+rm -f /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5/lib/x86/gdbserver
+rm -f /home/jacob/AndroidStudioProjects/Scanner/openCVLibrary3415/build/intermediates/cxx/Release/446tp6w5/lib/x86/gdb.setup

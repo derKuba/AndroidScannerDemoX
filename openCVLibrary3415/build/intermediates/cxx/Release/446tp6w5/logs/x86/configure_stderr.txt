@@ -1,0 +1,2 @@
+usage: ldflags_to_sanitizers.py [GLOBAL_FLAGS] --module [MODULE_FLAGS] [--module [MODULE_FLAGS]...]
+/home/jacob/Android/Sdk/ndk/23.1.7779620/build/core/build-all.mk:94: Android NDK: WARNING: There are no modules to build in this project!    
